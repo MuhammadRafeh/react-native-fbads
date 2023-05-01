@@ -46,7 +46,6 @@
   ],
   "files": [
     "android",
-    "ios",
     "src",
     "LICENSE",
     "package.json",
